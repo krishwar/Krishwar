@@ -137,7 +137,7 @@ An employee information management application with CRUD operations and database
 
 <div align="center">
 
-[![Krishwar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishwar&theme=github-compact)](https://github.com/krishwar)
+<img src="https://raw.githubusercontent.com/krishwar/Krishwar/output/activity-graph.svg" alt="Krishwar's GitHub contribution activity graph" width="100%"/>
 
 </div>
 
