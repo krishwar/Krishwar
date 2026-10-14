@@ -1,11 +1,14 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5420A5,100:00F5D4&height=200&section=header&text=Krishwar%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Engineering%20Efficient%20Solutions%20Through%20Code&descSize=15&descAlignY=70" alt="Krishwar V"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:7C3AED&height=200&section=header&text=Krishwar%20V&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20GenAI&descAlignY=58&descSize=16" width="100%" alt="Krishwar V banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=600&height=45&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+SQL;Building+Real-World+Applications" alt="Developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krishwar+V+%F0%9F%91%8B;Software+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+SaaS+Applications;Exploring+LLMs%2C+RAG+%26+Generative+AI" alt="Typing introduction"/>
 
-<a href="https://github.com/krishwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/krishwar-v-605042319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<br/>
+
+<a href="https://github.com/krishwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/krishwar-v-605042319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=krishwar&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -13,88 +16,183 @@
 
 ## 👨‍💻 About Me
 
-- Software developer focused on building practical applications.
-- Strong in Java, SQL, HTML and CSS.
-- Interested in backend development, web technologies and AI.
-- Always learning and improving my problem-solving skills.
+Hey! I'm **Krishwar V**, a Computer Science and Engineering graduate from **Panimalar Institute of Technology, Chennai**.
 
-> Engineering efficient solutions through code.
+- 💻 Passionate about software development and backend engineering.
+- 🚀 Building modern web applications and scalable SaaS solutions.
+- ☕ Working with Java, Spring Boot, React, and databases.
+- 🤖 Exploring Generative AI, Large Language Models (LLMs), and RAG.
+- 🧠 Continuously learning system design and software engineering best practices.
+- 📍 Chennai, Tamil Nadu, India.
 
-## ⚡ Tech Stack
+> 💡 *I don't just write code — I engineer solutions.*
 
-**Languages**
+---
 
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Basic-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Basic-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Hands--on-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-Basic-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-Basic-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### 💻 Programming Languages
 
-**Backend & Tools**
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp&theme=dark" alt="Programming languages"/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Working_Knowledge-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Basic-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF6B35?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Backend technologies"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/>
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,figma,firebase&theme=dark" alt="Development tools"/>
+
+</div>
+
+**Also exploring:** JDBC, Hibernate, JPA, REST APIs, LangChain, vector databases, LLMs, and Retrieval-Augmented Generation (RAG).
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Repository |
-|---|---|---|
-| 🛒 E-Commerce | Online shopping project | [View Code](https://github.com/krishwar/E-commerce) |
-| 👨‍💼 Employee Management | Employee information management | [View Code](https://github.com/krishwar/employeeinfo) |
-| ₿ Bitcoin Price Prediction | Python-based prediction project | [View Code](https://github.com/krishwar/BitcoinPricePrediction) |
-| 🌐 Portfolio | Personal portfolio website | [View Code](https://github.com/krishwar/Portfolio) |
-| 🛍️ Grocery Store | Grocery e-commerce frontend | [View Code](https://github.com/krishwar/E-commerce-grocery-store-front-end-) |
-| 🌦️ Weather Forecasting | Weather website | [View Code](https://github.com/krishwar/weather-forecasting-website-using-html-css-and-javascrript) |
+### 🏆 1. Multi-Tenant SaaS Inventory Management System
 
-<a href="https://github.com/krishwar?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="All repositories"/></a>
+A full-stack inventory management platform designed to streamline product management, procurement, billing, sales, stock movements, finance, and analytics.
+
+- 🏢 Multi-tenant SaaS architecture
+- 📦 Product and inventory management
+- 🛒 Procurement and billing workflows
+- 📊 Reporting and business analytics
+- 🔐 Backend APIs and database integration
+
+**Tech Stack:** React · Tailwind CSS · Java · Spring Boot · PostgreSQL · REST APIs
+
+> Repository: Add your actual project repository URL here.
+
+### 🛒 2. E-Commerce Platform
+
+A full-stack e-commerce application with shopping cart and order-management functionality.
+
+**Tech Stack:** Node.js · Express.js · MongoDB
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/krishwar/E-commerce)
+
+### 🌐 3. Portfolio Website
+
+A responsive portfolio website showcasing my development skills, projects, and technical background.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/krishwar/Portfolio)
+
+### 🌦️ 4. Weather Forecasting Website
+
+A weather application that retrieves and displays weather information using APIs.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/krishwar/weather-forecasting-website-using-html-css-and-javascrript)
+
+### ₿ 5. Bitcoin Price Prediction
+
+A machine-learning-based project focused on predicting Bitcoin prices using Python.
+
+**Tech Stack:** Python · Machine Learning
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/krishwar/BitcoinPricePrediction)
+
+### 👨‍💼 6. Employee Information Management System
+
+An employee information management application with CRUD operations and database integration.
+
+**Tech Stack:** Java · Spring Boot · SQL
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/krishwar/employeeinfo)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishwar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=krishwar&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak" width="75%"/>
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
-
-- Java and Spring Boot
-- Problem-solving and algorithms
-- Software design fundamentals
-- AI and modern web technologies
-
----
-
-## 🤝 Connect With Me
-
-- **GitHub:** [github.com/krishwar](https://github.com/krishwar)
-- **LinkedIn:** [linkedin.com/in/krishwar-v-605042319](https://www.linkedin.com/in/krishwar-v-605042319)
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5420A5,100:00F5D4&height=100&section=footer" width="100%" alt="Footer"/>
-
-*Build. Learn. Improve. Repeat.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishwar&bg_color=0D1117&color=E5E7EB&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution graph" width="100%"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/krishwar/krishwar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- ☕ Advanced Java and Spring Boot
+- 🏗️ System Design and scalable architectures
+- 🧩 Data Structures and Algorithms
+- 🤖 Generative AI and Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧠 AI-powered application development
+
+---
+
+## 🎯 My Developer Focus
+
+```text
+Backend Engineering    ██████████  Java & Spring Boot
+Full-Stack Development █████████░  React & REST APIs
+Database Engineering   ████████░░  SQL & Data Modeling
+Generative AI          ███████░░░  LLMs & RAG
+System Design          ██████░░░░  Learning & Building
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building useful applications, and connecting with fellow developers.
+
+<div align="center">
+
+<a href="https://github.com/krishwar"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+
+<a href="https://www.linkedin.com/in/krishwar-v-605042319"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+### ⚡ Build. Learn. Improve. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F172A&height=120&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
